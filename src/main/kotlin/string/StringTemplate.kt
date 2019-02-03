@@ -1,9 +1,9 @@
 package string
 
 fun main() {
-    //TODO: String Template
+    //TODO: String Template and compare with string concat on Java
 
     //TODO: String Multi Line
 
-    //TODO: Srting Template with condition
+    //TODO: String Template with condition ${} (More complex expressions)
 }
