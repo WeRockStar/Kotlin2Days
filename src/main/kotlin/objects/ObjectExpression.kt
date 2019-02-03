@@ -1,3 +1,4 @@
+@file:JvmName("KotlinUtils")
 package objects
 
 //TODO: Handle with interface
