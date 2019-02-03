@@ -4,6 +4,5 @@ package java_class;
 public class JavaOverloading {
 
     public static void main(String[] args) {
-
     }
 }
