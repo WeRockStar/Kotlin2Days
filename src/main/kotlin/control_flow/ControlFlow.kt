@@ -3,7 +3,7 @@ package control_flow
 fun main() {
     //TODO: if-else
 
-    //TODO: When
+    //TODO: When (with argument, without argument, combine multiple values in the same branch)
 
-    //TODO: Control flow with assign value
+    //TODO: Control flow with assign value (expression)
 }
